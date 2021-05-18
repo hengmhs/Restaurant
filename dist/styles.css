@@ -1,0 +1,14 @@
+#container {
+    width: 50%;
+    margin: auto;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+}
