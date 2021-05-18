@@ -40,3 +40,8 @@ p {
     text-align: center;
     padding: 1em;
 }
+
+.dish {
+    text-align: center;
+    font-style: italic;
+}
