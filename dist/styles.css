@@ -1,5 +1,5 @@
 #container {
-    width: 50%;
+    width: 75%;
     margin: auto;
 }
 
@@ -11,4 +11,32 @@
 img {
     width: 50%;
     margin-left: 25%;
+    margin-top: 1%;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#info {
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: bisque;
+    padding-bottom: 5%;
+}
+
+p {
+    margin-top: 0;
+}
+
+.navselect {
+    background-color: bisque;
+}
+
+.navbtn {
+    width: 33.3%;
+    text-align: center;
+    padding: 1em;
 }
